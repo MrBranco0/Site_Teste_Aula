@@ -1,0 +1,43 @@
+body {
+    background: gray;
+}
+
+h1{
+    color: blanchedalmond;
+    text-align: center;
+}
+
+.div2{
+    text-align: center;
+    color: rgba(255, 243, 138, 0.966);
+}
+.div1 {
+    background-color: rgb(177, 177, 177);
+    border-width: 3px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: aliceblue;
+    text-align: center;
+    color: white;
+    width: 1880px;
+    height: 90px;
+}
+p {
+    color: blanchedalmond;
+    text-align: center;
+}
+
+.div3{
+
+    text-align: center;
+}
+
+.div4{
+
+    background-color: rgb(167, 157, 145);
+    width: 50%;
+    height: 200px;
+    float: left;
+    border-radius: 30px;
+
+}
