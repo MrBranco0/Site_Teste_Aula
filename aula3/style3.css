@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+}
+.botao{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    padding: 15px 32px;
+    border:  1px solid rgb(0, 0, 0);
+    transition: background-color 0.5 ease, color 0.5 ease, transform 0.5 ease;
+}
+.botao:hover {
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1.2);
+}
+.div0{
+    background-color: black;
+    border-radius: 30px;
+    left: 50%;
+}
+.div1{
+    background-color: aliceblue;
+    border-radius: 30px;
+    left: 100%;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    height: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.modifica{
+    background-color: rgb(255, 255, 255);
+    width: auto;
+}
+.modifica:hover{
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    width: auto;
+    overflow: scroll;
+}
